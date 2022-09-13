@@ -7,7 +7,7 @@ setuptools.setup(
     name="gymnasium-notices",
     version="0.0.1",
     author="Jordan Terry",
-    author_email="jkterry0@farama.org",
+    author_email="Jkterry@farama.org",
     description="Notices for gymnasium",
     long_description=long_description,
     long_description_content_type="text/markdown",
